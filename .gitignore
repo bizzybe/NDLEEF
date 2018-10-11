@@ -35,5 +35,5 @@ vignettes/*.pdf
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
 
-#this is where you can tell github to ignore things. Sam ignores CSV files so that his data isn't shared. The rproj is the global environment, there are other files that make that unreproducible, ignroing the rproj makes your git stand alone
+#this is where you can tell github to ignore things. Sam ignores CSV files so that his data isn't shared. The rproj is the global environment, there are other files that make that unreproducible, ignoring the rproj makes your git stand alone
 *.Rproj
